@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Fibona {
+public class fibonacci {
     public static void num(int n) {
         int s = 1;
         int i = 1;
